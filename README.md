@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm interested in
+* NLP, Machine Learning and Deep Learning
 <!--
 **kyucheolsim/kyucheolsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
